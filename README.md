@@ -1,6 +1,8 @@
 # Hi, I'm Keerthana 👋
 
 Electronics & Communication Engineer | Chennai, India
+
+
 Building embedded and IoT systems with Embedded C, ESP32 and sensors.
 
 ## Skills
