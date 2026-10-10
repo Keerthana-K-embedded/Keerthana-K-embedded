@@ -16,4 +16,4 @@ Building embedded and IoT systems with Embedded C, ESP32 and sensors.
 
 ## Contact
 - Email: keerthana30603@gmail.com
-- LinkedIn: [www.linkedin.com/in/keerthana-k-4128b824a]
+- LinkedIn: [https://www.linkedin.com/in/keerthana-k-4128b824a]
